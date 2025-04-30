@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: MyCustomFont;
+    src: url(../assets/font/Lexend-VariableFont_wght.ttf);
+}
+
+body {
+    font-family: 'MyCustomFont', sans-serif;
+}
