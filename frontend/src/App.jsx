@@ -25,8 +25,7 @@ function App() {
       <Contact />
       <Feed />
       <Footer/> 
-      { /*
-      */}
+ 
     </>
   )
 }
